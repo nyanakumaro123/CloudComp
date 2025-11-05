@@ -63,7 +63,7 @@
                         <!-- Header -->
                         <div class="text-center mb-4">
                             <div class="header-icon">📧</div>
-                            <h2 class="fw-bold mb-2">Registration Form</h2>
+                            <h2 class="fw-bold mb-2">Registration</h2>
                             <p class="text-muted">Fill out the form below and we'll get back to you soon</p>
                         </div>
 
